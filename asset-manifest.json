@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/candyloca/static/css/main.76598800.chunk.css",
+    "main.js": "/candyloca/static/js/main.80ef8a7e.chunk.js",
+    "main.js.map": "/candyloca/static/js/main.80ef8a7e.chunk.js.map",
+    "runtime-main.js": "/candyloca/static/js/runtime-main.4f0e6c04.js",
+    "runtime-main.js.map": "/candyloca/static/js/runtime-main.4f0e6c04.js.map",
+    "static/js/2.52a64ee7.chunk.js": "/candyloca/static/js/2.52a64ee7.chunk.js",
+    "static/js/2.52a64ee7.chunk.js.map": "/candyloca/static/js/2.52a64ee7.chunk.js.map",
+    "static/js/3.02956ab8.chunk.js": "/candyloca/static/js/3.02956ab8.chunk.js",
+    "static/js/3.02956ab8.chunk.js.map": "/candyloca/static/js/3.02956ab8.chunk.js.map",
+    "index.html": "/candyloca/index.html",
+    "static/css/main.76598800.chunk.css.map": "/candyloca/static/css/main.76598800.chunk.css.map",
+    "static/js/2.52a64ee7.chunk.js.LICENSE.txt": "/candyloca/static/js/2.52a64ee7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f0e6c04.js",
+    "static/js/2.52a64ee7.chunk.js",
+    "static/css/main.76598800.chunk.css",
+    "static/js/main.80ef8a7e.chunk.js"
+  ]
+}
