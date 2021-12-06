@@ -1,26 +1,31 @@
 {
   "files": {
-    "main.css": "/candyloca/static/css/main.b304ea2d.chunk.css",
-    "main.js": "/candyloca/static/js/main.152d2a0a.chunk.js",
-    "main.js.map": "/candyloca/static/js/main.152d2a0a.chunk.js.map",
-    "runtime-main.js": "/candyloca/static/js/runtime-main.4f0e6c04.js",
-    "runtime-main.js.map": "/candyloca/static/js/runtime-main.4f0e6c04.js.map",
-    "static/js/2.0950f7b5.chunk.js": "/candyloca/static/js/2.0950f7b5.chunk.js",
-    "static/js/2.0950f7b5.chunk.js.map": "/candyloca/static/js/2.0950f7b5.chunk.js.map",
-    "static/js/3.02956ab8.chunk.js": "/candyloca/static/js/3.02956ab8.chunk.js",
-    "static/js/3.02956ab8.chunk.js.map": "/candyloca/static/js/3.02956ab8.chunk.js.map",
+    "main.css": "/candyloca/static/css/main.ef056fd4.chunk.css",
+    "main.js": "/candyloca/static/js/main.7da1aaf1.chunk.js",
+    "main.js.map": "/candyloca/static/js/main.7da1aaf1.chunk.js.map",
+    "runtime-main.js": "/candyloca/static/js/runtime-main.41d0544a.js",
+    "runtime-main.js.map": "/candyloca/static/js/runtime-main.41d0544a.js.map",
+    "static/css/2.4659568d.chunk.css": "/candyloca/static/css/2.4659568d.chunk.css",
+    "static/js/2.0b0ebcc3.chunk.js": "/candyloca/static/js/2.0b0ebcc3.chunk.js",
+    "static/js/2.0b0ebcc3.chunk.js.map": "/candyloca/static/js/2.0b0ebcc3.chunk.js.map",
+    "static/js/3.179d40b1.chunk.js": "/candyloca/static/js/3.179d40b1.chunk.js",
+    "static/js/3.179d40b1.chunk.js.map": "/candyloca/static/js/3.179d40b1.chunk.js.map",
     "index.html": "/candyloca/index.html",
-    "static/css/main.b304ea2d.chunk.css.map": "/candyloca/static/css/main.b304ea2d.chunk.css.map",
-    "static/js/2.0950f7b5.chunk.js.LICENSE.txt": "/candyloca/static/js/2.0950f7b5.chunk.js.LICENSE.txt",
+    "static/css/2.4659568d.chunk.css.map": "/candyloca/static/css/2.4659568d.chunk.css.map",
+    "static/css/main.ef056fd4.chunk.css.map": "/candyloca/static/css/main.ef056fd4.chunk.css.map",
+    "static/js/2.0b0ebcc3.chunk.js.LICENSE.txt": "/candyloca/static/js/2.0b0ebcc3.chunk.js.LICENSE.txt",
     "static/media/DSicon.4c7beb2f.png": "/candyloca/static/media/DSicon.4c7beb2f.png",
     "static/media/MEicon.bff7cf52.png": "/candyloca/static/media/MEicon.bff7cf52.png",
     "static/media/TWicon.6b2a9c5c.png": "/candyloca/static/media/TWicon.6b2a9c5c.png",
-    "static/media/heroPar.44311ac1.png": "/candyloca/static/media/heroPar.44311ac1.png"
+    "static/media/heroPar.44311ac1.png": "/candyloca/static/media/heroPar.44311ac1.png",
+    "static/media/logo-oaparasites-01.0766e50a.png": "/candyloca/static/media/logo-oaparasites-01.0766e50a.png",
+    "static/media/logo-oaparasites-02.a2fc727b.png": "/candyloca/static/media/logo-oaparasites-02.a2fc727b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.4f0e6c04.js",
-    "static/js/2.0950f7b5.chunk.js",
-    "static/css/main.b304ea2d.chunk.css",
-    "static/js/main.152d2a0a.chunk.js"
+    "static/js/runtime-main.41d0544a.js",
+    "static/css/2.4659568d.chunk.css",
+    "static/js/2.0b0ebcc3.chunk.js",
+    "static/css/main.ef056fd4.chunk.css",
+    "static/js/main.7da1aaf1.chunk.js"
   ]
 }
