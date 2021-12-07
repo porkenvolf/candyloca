@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/candyloca/static/css/main.fa40125c.chunk.css",
+    "main.css": "/candyloca/static/css/main.7e8e83ab.chunk.css",
     "main.js": "/candyloca/static/js/main.f276e26b.chunk.js",
     "main.js.map": "/candyloca/static/js/main.f276e26b.chunk.js.map",
     "runtime-main.js": "/candyloca/static/js/runtime-main.48aa83a9.js",
@@ -10,7 +10,7 @@
     "static/js/3.4bf025d1.chunk.js": "/candyloca/static/js/3.4bf025d1.chunk.js",
     "static/js/3.4bf025d1.chunk.js.map": "/candyloca/static/js/3.4bf025d1.chunk.js.map",
     "index.html": "/candyloca/index.html",
-    "static/css/main.fa40125c.chunk.css.map": "/candyloca/static/css/main.fa40125c.chunk.css.map",
+    "static/css/main.7e8e83ab.chunk.css.map": "/candyloca/static/css/main.7e8e83ab.chunk.css.map",
     "static/js/2.38dcf20a.chunk.js.LICENSE.txt": "/candyloca/static/js/2.38dcf20a.chunk.js.LICENSE.txt",
     "static/media/DSicon.7e09fe68.png": "/candyloca/static/media/DSicon.7e09fe68.png",
     "static/media/MEicon.b5e0d319.png": "/candyloca/static/media/MEicon.b5e0d319.png",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.48aa83a9.js",
     "static/js/2.38dcf20a.chunk.js",
-    "static/css/main.fa40125c.chunk.css",
+    "static/css/main.7e8e83ab.chunk.css",
     "static/js/main.f276e26b.chunk.js"
   ]
 }
