@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/candyloca/static/css/main.a23a3b1e.chunk.css",
-    "main.js": "/candyloca/static/js/main.6f298852.chunk.js",
-    "main.js.map": "/candyloca/static/js/main.6f298852.chunk.js.map",
+    "main.css": "/candyloca/static/css/main.b132628b.chunk.css",
+    "main.js": "/candyloca/static/js/main.ca8cb3ad.chunk.js",
+    "main.js.map": "/candyloca/static/js/main.ca8cb3ad.chunk.js.map",
     "runtime-main.js": "/candyloca/static/js/runtime-main.0023fc9b.js",
     "runtime-main.js.map": "/candyloca/static/js/runtime-main.0023fc9b.js.map",
-    "static/js/2.551db229.chunk.js": "/candyloca/static/js/2.551db229.chunk.js",
-    "static/js/2.551db229.chunk.js.map": "/candyloca/static/js/2.551db229.chunk.js.map",
+    "static/js/2.0c450a31.chunk.js": "/candyloca/static/js/2.0c450a31.chunk.js",
+    "static/js/2.0c450a31.chunk.js.map": "/candyloca/static/js/2.0c450a31.chunk.js.map",
     "static/js/3.b969518b.chunk.js": "/candyloca/static/js/3.b969518b.chunk.js",
     "static/js/3.b969518b.chunk.js.map": "/candyloca/static/js/3.b969518b.chunk.js.map",
     "index.html": "/candyloca/index.html",
-    "static/css/main.a23a3b1e.chunk.css.map": "/candyloca/static/css/main.a23a3b1e.chunk.css.map",
-    "static/js/2.551db229.chunk.js.LICENSE.txt": "/candyloca/static/js/2.551db229.chunk.js.LICENSE.txt",
+    "static/css/main.b132628b.chunk.css.map": "/candyloca/static/css/main.b132628b.chunk.css.map",
+    "static/js/2.0c450a31.chunk.js.LICENSE.txt": "/candyloca/static/js/2.0c450a31.chunk.js.LICENSE.txt",
     "static/media/DSicon.7e09fe68.png": "/candyloca/static/media/DSicon.7e09fe68.png",
     "static/media/Head.7851f720.png": "/candyloca/static/media/Head.7851f720.png",
     "static/media/MEicon.b5e0d319.png": "/candyloca/static/media/MEicon.b5e0d319.png",
@@ -21,7 +21,6 @@
     "static/media/bichoManos.f8374eef.png": "/candyloca/static/media/bichoManos.f8374eef.png",
     "static/media/bright.e349d266.png": "/candyloca/static/media/bright.e349d266.png",
     "static/media/faq.1175f336.png": "/candyloca/static/media/faq.1175f336.png",
-    "static/media/fog.a6015e6a.png": "/candyloca/static/media/fog.a6015e6a.png",
     "static/media/heroPar.44311ac1.png": "/candyloca/static/media/heroPar.44311ac1.png",
     "static/media/iso.91e7e2a1.png": "/candyloca/static/media/iso.91e7e2a1.png",
     "static/media/logoBig.182b5040.png": "/candyloca/static/media/logoBig.182b5040.png",
@@ -32,8 +31,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0023fc9b.js",
-    "static/js/2.551db229.chunk.js",
-    "static/css/main.a23a3b1e.chunk.css",
-    "static/js/main.6f298852.chunk.js"
+    "static/js/2.0c450a31.chunk.js",
+    "static/css/main.b132628b.chunk.css",
+    "static/js/main.ca8cb3ad.chunk.js"
   ]
 }
