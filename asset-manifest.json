@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/candyloca/static/css/main.aa02814d.chunk.css",
-    "main.js": "/candyloca/static/js/main.7095c9b0.chunk.js",
-    "main.js.map": "/candyloca/static/js/main.7095c9b0.chunk.js.map",
+    "main.js": "/candyloca/static/js/main.abfa14c7.chunk.js",
+    "main.js.map": "/candyloca/static/js/main.abfa14c7.chunk.js.map",
     "runtime-main.js": "/candyloca/static/js/runtime-main.0023fc9b.js",
     "runtime-main.js.map": "/candyloca/static/js/runtime-main.0023fc9b.js.map",
     "static/js/2.0c450a31.chunk.js": "/candyloca/static/js/2.0c450a31.chunk.js",
@@ -19,7 +19,7 @@
     "static/media/bg.0d306ab7.jpg": "/candyloca/static/media/bg.0d306ab7.jpg",
     "static/media/bichoHead.fb31fed2.png": "/candyloca/static/media/bichoHead.fb31fed2.png",
     "static/media/bichoManos.f8374eef.png": "/candyloca/static/media/bichoManos.f8374eef.png",
-    "static/media/bright.e349d266.png": "/candyloca/static/media/bright.e349d266.png",
+    "static/media/bright.71c7e968.png": "/candyloca/static/media/bright.71c7e968.png",
     "static/media/faq.1175f336.png": "/candyloca/static/media/faq.1175f336.png",
     "static/media/heroPar.44311ac1.png": "/candyloca/static/media/heroPar.44311ac1.png",
     "static/media/iso.91e7e2a1.png": "/candyloca/static/media/iso.91e7e2a1.png",
@@ -33,6 +33,6 @@
     "static/js/runtime-main.0023fc9b.js",
     "static/js/2.0c450a31.chunk.js",
     "static/css/main.aa02814d.chunk.css",
-    "static/js/main.7095c9b0.chunk.js"
+    "static/js/main.abfa14c7.chunk.js"
   ]
 }
